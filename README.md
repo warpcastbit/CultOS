@@ -1,4 +1,4 @@
-# 🧿 CultOS: Viral Consensus Architect
+# CultOS
 
 **CultOS** is a decentralized "cult-as-a-service" platform built on the Stacks blockchain. It leverages generative AI to manifest viral consensus layers (tokens) by synthesizing lore, branding, and economic blueprints directly from the cultural zeitgeist.
 
